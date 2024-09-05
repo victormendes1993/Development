@@ -8,5 +8,5 @@ Projetos desenvolvidos como parte do curso *The Complete Flutter Development Boo
 
 ## Projects
 
-- [Mebmi](https://docs.flutter.dev/get-started/codelab)
-- [Flashchatter](https://docs.flutter.dev/cookbook)
+- [Mebmi](https://github.com/victormendes1993/Mebmi)
+- [Flashchatter](https://github.com/victormendes1993/Flashchatter)
