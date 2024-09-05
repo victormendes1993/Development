@@ -8,5 +8,5 @@ Projetos desenvolvidos como parte do curso *The Complete Flutter Development Boo
 
 ## Projects
 
-- [Membi](https://github.com/victormendes1993/Mebmi) *BMI Calculator App - Introduction to using custom widgets.*
-- [Flashchatter](https://github.com/victormendes1993/Flashchatter) *Chatting App with Firebase Authentication, Google and Facebook sign in, email verification and password reset.*
+- [Membi](https://github.com/victormendes1993/Mebmi) | BMI Calculator App - Introduction to using custom widgets.
+- [Flashchatter](https://github.com/victormendes1993/Flashchatter) | Chatting App with Firebase Authentication, Google and Facebook sign in, email verification and password reset.
