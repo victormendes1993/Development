@@ -9,4 +9,6 @@ Projetos desenvolvidos como parte do curso *The Complete Flutter Development Boo
 ## Projects
 
 - [Membi](https://github.com/victormendes1993/Mebmi) | BMI Calculator App - Introduction to using custom widgets.
-- [Flashchatter](https://github.com/victormendes1993/Flashchatter) | Chatting App with Firebase Authentication, Google and Facebook sign in, email verification and password reset.
+- [Weatherme](https://github.com/victormendes1993/Weatherme) | Weather App - Live weather data with OpenWeatherMap API, HTTP package API and JSON formatting.
+- [Flashchatter](https://github.com/victormendes1993/Flashchatter) | Chatting App - Firebase Authentication, Google and Facebook sign in, email verification and password reset.
+- [Todoey](https://github.com/victormendes1993/Todoey) | Under development.
