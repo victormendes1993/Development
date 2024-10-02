@@ -1,14 +1,13 @@
 # Flutter Development
 
-Projects developed as part of *The Complete Flutter Development Bootcamp with Dart* course, taught by Dr. Angela Yu from The App Brewery, London's highest-rated programming bootcamp since 2015, in partnership with the Flutter team at Google.
-
-Projetos desenvolvidos como parte do curso *The Complete Flutter Development Bootcamp with Dart*, ministrado pela Dra. Angela Yu da empresa The App Brewery, o bootcamp de programação mais bem avaliado de Londres desde 2015, em parceria com a equipe Flutter da Google.
-
-- [The App Brewery](https://www.appbrewery.co)
-
 ## Projects
 
+- [Todoey](https://github.com/victormendes1993/Todoey) | Aplicativo de organização de tarefas (To-Do) com gerenciamento de estado usando Provider. Implementação de funcionalidades para adicionar, editar e remover tarefas, com suporte a SQFLite para categorização, definição de prioridades e filtros. Interface de usuário intuitiva e responsiva. Aplicação de boas práticas e clean code. (Em desenvolvimento)
+  
+- [Weatherme](https://github.com/victormendes1993/Weatherme) | Aplicativo de previsão do tempo que utiliza a API do OpenWeatherMap para fornecer dados meteorológicos em tempo real. Implementação da comunicação com a API HTTP e formatação de dados JSON para exibição de informações precisas e atualizadas.
+  
+- [Flashchatter](https://github.com/victormendes1993/Flashchatter) | Aplicativo de chat com funcionalidades de autenticação via Firebase, incluindo login com Google e Facebook. Implementação de verificação de email e redefinição de senha para garantir a segurança e a integridade das contas dos usuários. 
+
 - [Mebmi](https://github.com/victormendes1993/Mebmi) | BMI Calculator App - Introduction to using custom widgets.
-- [Weatherme](https://github.com/victormendes1993/Weatherme) | Weather App - Live weather data with OpenWeatherMap API, HTTP package API and JSON formatting.
-- [Flashchatter](https://github.com/victormendes1993/Flashchatter) | Chatting App - Firebase Authentication, Google and Facebook sign in, email verification and password reset.
-- [Todoey](https://github.com/victormendes1993/Todoey) | Under development.
+
+
