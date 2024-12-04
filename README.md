@@ -10,4 +10,7 @@
 
 - [Mebmi](https://github.com/victormendes1993/Mebmi) | BMI Calculator App - Introduction to using custom widgets.
 
+# JavaScript Development
+
+## Projects
 
