@@ -15,3 +15,5 @@
 ## Projects
 
 - [Hangman](https://github.com/victormendes1993/Hangman) | O Hangman Web App é um jogo interativo desenvolvido com HTML, CSS e JavaScript, projetado para ser executado diretamente no navegador. Ele utiliza o fetch API para carregar palavras dinamicamente, garantindo uma experiência variada a cada rodada. O estado do jogo é gerenciado em tempo real, permitindo acompanhar o progresso, verificar letras corretas e erradas e exibir mensagens de vitória ou derrota. A interface é responsiva, com transições suaves e feedback visual.
+
+- [Notes-App](https://github.com/victormendes1993/notes-app) | O Notes Web App é uma aplicação simples e interativa desenvolvida com HTML, CSS e JavaScript, projetada para criar, editar e gerenciar anotações diretamente no navegador. Ele utiliza armazenamento local do navegador (localStorage) para salvar as notas, permitindo que os dados persistam mesmo após o fechamento da página. A interface é intuitiva e responsiva, com funcionalidades como criação de novas notas, exclusão e edição em tempo real. Ideal para organizar ideias ou tarefas de forma prática e acessível.
