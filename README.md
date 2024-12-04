@@ -14,3 +14,4 @@
 
 ## Projects
 
+- [Hangman](https://github.com/victormendes1993/Hangman) | O Hangman Web App é um jogo interativo desenvolvido com HTML, CSS e JavaScript, projetado para ser executado diretamente no navegador. Ele utiliza o fetch API para carregar palavras dinamicamente, garantindo uma experiência variada a cada rodada. O estado do jogo é gerenciado em tempo real, permitindo acompanhar o progresso, verificar letras corretas e erradas e exibir mensagens de vitória ou derrota. A interface é responsiva, com transições suaves e feedback visual.
