@@ -24,4 +24,4 @@
 
 ## Projects
 
-- [Notes-App](https://github.com/victormendes1993/Node-Notes-App) | Notes-App é uma aplicação simples e funcional desenvolvida em Node.js, que permite gerenciar anotações diretamente pelo terminal. Utilizando o pacote Yargs para interpretar comandos e o módulo File System para persistência de dados, o aplicativo oferece funcionalidades para adicionar, listar, ler e remover anotações de forma prática e eficiente.
+- [Node-Notes-App](https://github.com/victormendes1993/Node-Notes-App) | Notes-App é uma aplicação simples e funcional desenvolvida em Node.js, que permite gerenciar anotações diretamente pelo terminal. Utilizando o pacote Yargs para interpretar comandos e o módulo File System para persistência de dados, o aplicativo oferece funcionalidades para adicionar, listar, ler e remover anotações de forma prática e eficiente.
