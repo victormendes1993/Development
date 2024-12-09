@@ -19,3 +19,9 @@
 - [Notes-App](https://github.com/victormendes1993/notes-app) | O Notes Web App é uma aplicação simples e interativa desenvolvida com HTML, CSS e JavaScript, projetada para criar, editar e gerenciar anotações diretamente no navegador. Ele utiliza armazenamento local do navegador (localStorage) para salvar as notas, permitindo que os dados persistam mesmo após o fechamento da página. A interface é intuitiva e responsiva, com funcionalidades como criação de novas notas, exclusão e edição em tempo real. Ideal para organizar ideias ou tarefas de forma prática e acessível.
 
 - [Todo-App](https://github.com/victormendes1993/Todo-App) | O To-Do Web App é uma solução simples e funcional para organizar suas tarefas diretamente no navegador. Desenvolvido com HTML, CSS e JavaScript, ele permite criar, editar, concluir e excluir tarefas de forma intuitiva. As informações são armazenadas no navegador (localStorage), garantindo que suas tarefas sejam mantidas mesmo após fechar a página. Com uma interface responsiva e minimalista, o app oferece uma experiência prática para planejar e acompanhar suas atividades diárias.
+
+# Node.JS Development
+
+## Projects
+
+- [Notes-App](https://github.com/victormendes1993/Node-Notes-App) | Notes-App é uma aplicação simples e funcional desenvolvida em Node.js, que permite gerenciar anotações diretamente pelo terminal. Utilizando o pacote Yargs para interpretar comandos e o módulo File System para persistência de dados, o aplicativo oferece funcionalidades para adicionar, listar, ler e remover anotações de forma prática e eficiente.
